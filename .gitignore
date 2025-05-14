@@ -9,6 +9,7 @@ target/
 mvnw
 mvnw.cmd
 
+target
 
 ### STS ###
 .apt_generated
